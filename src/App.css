@@ -79,3 +79,10 @@ h1{
     grid-column: 2/4;
     grid-row: 1;
 }
+
+.share-links{
+    display: flex;
+    margin-top: 1.5rem;
+    gap: 0.7rem;
+    justify-content: center;
+}
